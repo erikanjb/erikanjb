@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erikanjb
 - 👀 I’m interested in internships and entry-level job offers
-- 🌱 I’m currently learning python and ruby on rails
+- 🌱 I’m currently learning django and react/react native
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach me via my email address [erikanb33@gmail.com]
 
